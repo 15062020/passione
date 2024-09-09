@@ -1,0 +1,32 @@
+body
+{
+    background-color: #c6b79f;
+}
+#torta img
+{
+    height: 300px;
+    padding-left: 200px;
+    padding-bottom: 30px;
+}
+#sobremesa-escrito
+{
+    padding-left: 360px;
+}
+#bolo img
+{
+    height: 300px;
+    padding-left: 200px;
+    padding-bottom: 30px;
+}
+#botoes
+{
+    display: flex;
+}
+#botao-cardapio
+{
+    padding-left: 40px;
+}
+#botao-pagamento
+{
+    padding-left: 900px;
+}
